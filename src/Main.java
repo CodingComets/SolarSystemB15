@@ -8,5 +8,6 @@ public class Main {
         featureSun sun = new featureSun();
         sun.temperature = "very hot";
         sun.age = "very old";
+        sun.size = "very large";
     }
 }
